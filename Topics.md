@@ -1,4 +1,4 @@
-# 12-Week Data Structures & Algorithms Learning Schedule
+# WeekWise Data Structures & Algorithms Learning Schedule
 *A beginner-friendly journey from fundamentals to advanced concepts using Python*
 
 ## Week 1: Foundation & Time/Space Complexity
@@ -9,7 +9,6 @@
   - Python list operations complexity
   - Memory basics in Python
 - **Practice:** Analyze simple algorithms, compare different approaches
-- **Fun Project:** Create a "performance detective" tool to measure execution time
 - **Why This Week:** Essential foundation before diving into data structures
 
 ---
@@ -22,7 +21,6 @@
   - Common array operations and their complexity
   - Two-pointer technique introduction
 - **Practice:** Array manipulation problems, sliding window basics
-- **Fun Project:** Build a custom dynamic array class
 - **Why This Week:** Arrays are everywhere and form the basis for many other structures
 
 ---
@@ -35,7 +33,6 @@
   - String builder concept
   - Common string problems patterns
 - **Practice:** Palindromes, anagrams, substring problems
-- **Fun Project:** Create a simple text analyzer (word count, palindrome finder)
 - **Why This Week:** Builds on arrays while introducing important algorithmic thinking
 
 ---
@@ -48,7 +45,6 @@
   - Common operations (insert, delete, search)
   - Two-pointer technique in linked lists
 - **Practice:** Reversing lists, finding cycles, merging lists
-- **Fun Project:** Build a simple music playlist using linked lists
 - **Why This Week:** Introduces pointer manipulation - crucial for tree/graph understanding
 
 ---
@@ -61,7 +57,6 @@
   - Deque (double-ended queue)
   - Using Python's collections.deque
 - **Practice:** Balanced parentheses, browser history, task scheduling
-- **Fun Project:** Create a simple calculator using stacks
 - **Why This Week:** These linear structures have clear real-world applications
 
 ---
@@ -74,7 +69,6 @@
   - Recursion vs iteration
   - Introduction to backtracking
 - **Practice:** Factorial, Fibonacci, simple backtracking problems
-- **Fun Project:** Solve a maze using recursive backtracking
 - **Why This Week:** Essential before trees/graphs, and backtracking is a key problem-solving technique
 
 ---
@@ -87,7 +81,6 @@
   - Binary Search Trees (BST)
   - BST operations and properties
 - **Practice:** Tree construction, validation, simple tree problems
-- **Fun Project:** Build a family tree or organizational chart
 - **Why This Week:** Trees are fundamental to many advanced algorithms
 
 ---
@@ -100,7 +93,6 @@
   - Collision handling
   - Hash table applications
 - **Practice:** Two-sum problems, frequency counting, caching
-- **Fun Project:** Create a simple spell checker or word frequency analyzer
 - **Why This Week:** Hash tables are incredibly useful and appear in many interview problems
 
 ---
@@ -113,7 +105,6 @@
   - Python's heapq module
   - Priority queue applications
 - **Practice:** Top K problems, median finding, task scheduling
-- **Fun Project:** Build a task manager with priority levels
 - **Why This Week:** Heaps are crucial for many algorithms and have clear practical applications
 
 ---
@@ -126,7 +117,6 @@
   - Binary search variations
   - Sorting algorithm analysis
 - **Practice:** Custom sorting, binary search problems, finding elements in sorted arrays
-- **Fun Project:** Create a sorting visualizer or comparison tool
 - **Why This Week:** Fundamental algorithms that appear everywhere
 
 ---
@@ -139,7 +129,6 @@
   - DFS (Depth-First Search)
   - Graph applications
 - **Practice:** Path finding, connected components, graph validation
-- **Fun Project:** Model a social network or city map with shortest paths
 - **Why This Week:** Graphs model real-world relationships and many problems reduce to graph problems
 
 ---
@@ -152,7 +141,6 @@
   - Graph algorithms (shortest path intro)
   - System design thinking with DSA
 - **Practice:** Classic DP problems (fibonacci, climbing stairs), greedy problems
-- **Fun Project:** Build a comprehensive data structure library or solve a complex multi-concept problem
 - **Why This Week:** Integration of concepts and introduction to advanced algorithmic paradigms
 
 ---
@@ -170,11 +158,6 @@
 - **Medium Problems:** Apply concepts in various scenarios
 - **Hard Problems:** Only 1-2 per week, focus on crucial patterns
 
-### 🔄 Weekly Review Questions:
-1. What did I learn this week?
-2. How does this connect to previous topics?
-3. Where might I use this in real projects?
-4. What was most challenging and why?
 
 ### 🚀 Progression Philosophy:
 - **Weeks 1-4:** Build solid foundations
@@ -182,3 +165,5 @@
 - **Weeks 9-12:** Advanced concepts and integration
 
 This schedule balances theory with practical implementation, ensuring you understand both the "what" and "why" of each concept while building real programming skills!
+
+Happy Coding Folks!
