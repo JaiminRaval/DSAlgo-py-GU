@@ -4,11 +4,11 @@ def bubble_sort(arr):
 
     for i in range(n):
         for j in range(0, n - i - 1):
-
             if arr[j] > arr[j + 1]:
+                print(arr[i], arr[j], arr[j + 1])
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
-
     return arr
+
 
 # Example usage
 numbers = [64, 34, 25, 12, 22, 11, 90]
