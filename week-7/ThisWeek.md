@@ -1,0 +1,3 @@
+- will be doing linkedList LC questions
+- Practice Questions
+- What is Queue & How it works
