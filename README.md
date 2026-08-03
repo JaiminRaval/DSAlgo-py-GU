@@ -9,7 +9,7 @@ This repository is a curated collection of python+ implementations for classic a
 **We are learning Data Structures from the first principles thinking. so don't assume any thing**
 
 ## Slides
-Google slides link:
+Google slides link: https://docs.google.com/presentation/d/1RPJaAj3tTNaY88vjgPWewjyrJJX_KwXmt9D9VetVT4c
 
 Notion link(s):
 
